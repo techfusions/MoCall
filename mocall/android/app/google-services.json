@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "786838796103",
+    "project_id": "mocall-1040d",
+    "storage_bucket": "mocall-1040d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786838796103:android:eb3aff78ac5d33ace17e62",
+        "android_client_info": {
+          "package_name": "com.example.saw"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtcIBJsoEvWsIQK3QSGbJ2AvulH3OUsx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
